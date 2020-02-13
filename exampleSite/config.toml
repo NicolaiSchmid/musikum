@@ -4,21 +4,48 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "musikum e.V."
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+name = "Kontakt"
+weight = 13
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+name = "Kooperationspartner"
+weight = 12
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
+name = "Räume mieten"
+weight = 11
+[[menu.main]]
+name = "Unterstützen"
+weight = 10
+[[menu.main]]
+name = "Preise"
+weight = 9
+[[menu.main]]
+name = "Termine"
+weight = 8
+[[menu.main]]
+name = "Über uns"
+weight = 7
+[[menu.main]]
+name = "Angebote"
+weight = 6
+[[menu.main]]
+name = "Startseite"
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 4
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
