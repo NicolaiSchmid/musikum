@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "musikum e.V."
 [[menu.main]]
+URL = "räume-mieten"
+name = "Räume mieten"
+weight = ""
+[[menu.main]]
 URL = "Unterstuetzen"
 name = "Unterstützen"
 weight = ""
