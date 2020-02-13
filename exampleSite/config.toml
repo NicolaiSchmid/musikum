@@ -16,7 +16,7 @@ URL = "räume-mieten"
 name = "Räume mieten"
 weight = ""
 [[menu.main]]
-URL = "Unterstuetzen"
+URL = "unterstützen"
 name = "Unterstützen"
 weight = ""
 [[menu.main]]
