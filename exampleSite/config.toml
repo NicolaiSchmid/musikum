@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "musikum e.V."
 [[menu.main]]
+URL = "kontakt"
+name = "Kontakt"
+weight = ""
+[[menu.main]]
 URL = "kooperationspartner"
 name = "Kooperationspartner"
 weight = ""
