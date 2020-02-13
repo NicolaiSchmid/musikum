@@ -4,58 +4,31 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "musikum e.V."
 [[menu.main]]
-name = "Kontakt"
-weight = 13
-[[menu.main]]
-name = "Kooperationspartner"
-weight = 12
-[[menu.main]]
-name = "Räume mieten"
-weight = 11
-[[menu.main]]
-name = "Unterstützen"
-weight = 10
-[[menu.main]]
-name = "Preise"
-weight = 9
-[[menu.main]]
-name = "Termine"
-weight = 8
-[[menu.main]]
-name = "Über uns"
-weight = 7
-[[menu.main]]
-name = "Angebote"
-weight = 6
-[[menu.main]]
-name = "Startseite"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
+weight = 3
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "portfolio"
+name = "Portfolio"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "Mengstr. 40 B, 23552 Lübeck"
+author = "Nicolai Schmid"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+description = "Das musikum e.V. in Lübeck"
+email = "info@musikum-luebeck.de"
 google_analitycs_id = "Your ID"
-home = "Home"
+home = "Startseite"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "0451 - 70 43 86"
 theme_color = "#41228e"
 [params.contact]
 enable = true
