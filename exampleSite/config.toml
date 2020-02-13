@@ -28,7 +28,7 @@ URL = "termine"
 name = "Termine"
 weight = ""
 [[menu.main]]
-URL = "ueber-uns"
+URL = "über-uns"
 name = "Über uns"
 weight = "3"
 [[menu.main]]
