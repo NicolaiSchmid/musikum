@@ -1,4 +1,4 @@
-baseURL = "https://musikum-luebeck.de"
+baseURL = "https://musikum.netlify.com"
 languageCode = "de-de"
 summaryLength = "10"
 theme = "kross-hugo"
